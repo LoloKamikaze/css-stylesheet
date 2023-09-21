@@ -1,0 +1,20 @@
+.class {
+    background-color: #f797a9;
+    font-family:Verdana, "DejaVu sans", sans-serif;
+}
+
+.but-bigger {
+    font-size: 24px;
+}
+
+#ID {
+    color:RGB(0, 81, 255);
+    font-size: 36px;
+
+}
+
+#anotherid{
+    font-size:24px;
+    font-weight: bold;
+    background-color: hsl(116, 68%, 77%);
+}
